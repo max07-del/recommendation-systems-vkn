@@ -267,3 +267,8 @@ o [1] Ембендінг – https://prog.academy/ua/glossary/embedding
 o [2] Послідовні моделі рекомендацій – https://tullie.ai/blog/sequential-
 models-for-recommendations
 o [3] допомога ШІ
+
+o [1] Ембендінг – https://prog.academy/ua/glossary/embedding
+o [2] Послідовні моделі рекомендацій – https://tullie.ai/blog/sequential-
+models-for-recommendations
+o [3] допомога ШІ
